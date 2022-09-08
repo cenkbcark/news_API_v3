@@ -1,5 +1,11 @@
 # news_API_v3
 
+```html
+It's a basic cuurentNews App which works with an API.
+```
+
+
+
 <h2>Build</h2>
 
 ```html

@@ -1,7 +1,7 @@
 # news_API_v3
 
 ```html
-It's a basic cuurentNews App which works with an API.
+It's a basic currentNews App which works with an API.
 ```
 
 
